@@ -1,1 +1,2 @@
-day,tube_flow_m3_h,crude_inlet_C,residuum_inlet_C,residuum_outlet_C
+day,shell_flow_m3_h,tube_flow_m3_h,shell_inlet_C,shell_outlet_C,tube_outlet_C,tube_inlet_C
+0,65.3125,427.3958333333333,312.95315682281057,302.36252545824846,219.06313645621182,201.75152749490834
